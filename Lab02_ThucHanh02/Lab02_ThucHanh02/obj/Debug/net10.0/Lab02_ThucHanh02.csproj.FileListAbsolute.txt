@@ -1,0 +1,15 @@
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\bin\Debug\net10.0\Lab02_ThucHanh02.exe
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\bin\Debug\net10.0\Lab02_ThucHanh02.deps.json
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\bin\Debug\net10.0\Lab02_ThucHanh02.runtimeconfig.json
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\bin\Debug\net10.0\Lab02_ThucHanh02.dll
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\bin\Debug\net10.0\Lab02_ThucHanh02.pdb
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.AssemblyInfoInputs.cache
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.AssemblyInfo.cs
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.csproj.CoreCompileInputs.cache
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.dll
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\refint\Lab02_ThucHanh02.dll
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.pdb
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_ThucHanh02.genruntimeconfig.cache
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\ref\Lab02_ThucHanh02.dll
+D:\Code\NNLTCSharpC6\Lab02_ThucHanh02\Lab02_ThucHanh02\obj\Debug\net10.0\Lab02_Th.DE7EBB40.Up2Date
