@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\NNLTCSharpC6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BDA290D-9477-446B-8018-0618F9EEFF53}|Lab02_ThucHanh01\\Lab02_ThucHanh01\\Lab02_ThucHanh01.csproj|d:\\code\\nnltcsharpc6\\lab02_thuchanh01\\lab02_thuchanh01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BDA290D-9477-446B-8018-0618F9EEFF53}|Lab02_ThucHanh01\\Lab02_ThucHanh01\\Lab02_ThucHanh01.csproj|solutionrelative:lab02_thuchanh01\\lab02_thuchanh01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC50A194-9C42-4D4D-8D48-43FF59F86CB1}|Lab03\\ThucHanhLinQ\\ThucHanhLinQ.csproj|d:\\code\\nnltcsharpc6\\lab03\\thuchanhlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC50A194-9C42-4D4D-8D48-43FF59F86CB1}|Lab03\\ThucHanhLinQ\\ThucHanhLinQ.csproj|solutionrelative:lab03\\thuchanhlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BDA290D-9477-446B-8018-0618F9EEFF53}|Lab02_ThucHanh01\\Lab02_ThucHanh01\\Lab02_ThucHanh01.csproj|d:\\code\\nnltcsharpc6\\lab02_thuchanh01\\lab02_thuchanh01\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BDA290D-9477-446B-8018-0618F9EEFF53}|Lab02_ThucHanh01\\Lab02_ThucHanh01\\Lab02_ThucHanh01.csproj|solutionrelative:lab02_thuchanh01\\lab02_thuchanh01\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC50A194-9C42-4D4D-8D48-43FF59F86CB1}|Lab03\\ThucHanhLinQ\\ThucHanhLinQ.csproj|d:\\code\\nnltcsharpc6\\lab03\\thuchanhlinq\\bai2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC50A194-9C42-4D4D-8D48-43FF59F86CB1}|Lab03\\ThucHanhLinQ\\ThucHanhLinQ.csproj|solutionrelative:lab03\\thuchanhlinq\\bai2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bai3.cs",
-              "DocumentMoniker": "D:\\Code\\NNLTCSharpC6\\Lab02_ThucHanh01\\Lab02_ThucHanh01\\Bai3.cs",
-              "RelativeDocumentMoniker": "Lab02_ThucHanh01\\Lab02_ThucHanh01\\Bai3.cs",
-              "ToolTip": "D:\\Code\\NNLTCSharpC6\\Lab02_ThucHanh01\\Lab02_ThucHanh01\\Bai3.cs",
-              "RelativeToolTip": "Lab02_ThucHanh01\\Lab02_ThucHanh01\\Bai3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Bai2_1.cs",
+              "DocumentMoniker": "D:\\Code\\NNLTCSharpC6\\Lab03\\ThucHanhLinQ\\Bai2_1.cs",
+              "RelativeDocumentMoniker": "Lab03\\ThucHanhLinQ\\Bai2_1.cs",
+              "ToolTip": "D:\\Code\\NNLTCSharpC6\\Lab03\\ThucHanhLinQ\\Bai2_1.cs",
+              "RelativeToolTip": "Lab03\\ThucHanhLinQ\\Bai2_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:33:39.231Z",
+              "WhenOpened": "2026-09-30T17:26:26.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\NNLTCSharpC6\\Lab02_ThucHanh01\\Lab02_ThucHanh01\\Program.cs",
-              "RelativeDocumentMoniker": "Lab02_ThucHanh01\\Lab02_ThucHanh01\\Program.cs",
-              "ToolTip": "D:\\Code\\NNLTCSharpC6\\Lab02_ThucHanh01\\Lab02_ThucHanh01\\Program.cs",
-              "RelativeToolTip": "Lab02_ThucHanh01\\Lab02_ThucHanh01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\NNLTCSharpC6\\Lab03\\ThucHanhLinQ\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03\\ThucHanhLinQ\\Program.cs",
+              "ToolTip": "D:\\Code\\NNLTCSharpC6\\Lab03\\ThucHanhLinQ\\Program.cs*",
+              "RelativeToolTip": "Lab03\\ThucHanhLinQ\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T13:21:58.081Z",
+              "WhenOpened": "2026-09-30T17:25:46.071Z",
               "EditorCaption": ""
             }
           ]

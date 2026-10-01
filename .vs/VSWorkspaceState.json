@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab02_ThucHanh01",
-    "\\Lab02_ThucHanh01\\Lab02_ThucHanh01"
+    "\\Lab03",
+    "\\Lab03\\BaiThucHanhLINQ",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\bin\\Debug",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\bin\\Debug\\net10.0",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\bin\\Release",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\obj\\Debug\\net10.0",
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ\\obj\\Debug\\net10.0\\refint"
   ],
-  "SelectedNode": "\\Lab02_ThucHanh01\\Lab02_ThucHanh01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
