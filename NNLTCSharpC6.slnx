@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Lab03/">
+    <Project Path="Lab03/BaiThucHanhLINQ/BaiThucHanhLINQ.csproj" />
+    <Project Path="Lab03/ThucHanhLinQ/ThucHanhLinQ.csproj" Id="ac50a194-9c42-4d4d-8d48-43ff59f86cb1" />
+  </Folder>
   <Project Path="Lab02_ThucHanh01/Lab02_ThucHanh01/Lab02_ThucHanh01.csproj" />
 </Solution>
