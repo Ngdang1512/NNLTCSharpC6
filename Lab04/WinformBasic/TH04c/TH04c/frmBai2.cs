@@ -21,7 +21,6 @@ namespace TH04c
 
         private void TaoGiaoDien()
         {
-            // Form
             Text = "Đăng ký tài khoản";
             StartPosition = FormStartPosition.CenterScreen;
             ClientSize = new Size(360, 250);
@@ -30,7 +29,6 @@ namespace TH04c
 
             Font = new Font("Tahoma", 9F, FontStyle.Regular);
 
-            // Tiêu đề
             Label lblTieuDe = new Label();
             lblTieuDe.Text = "Đăng ký tài khoản";
             lblTieuDe.AutoSize = true;
@@ -38,7 +36,6 @@ namespace TH04c
             lblTieuDe.ForeColor = Color.DodgerBlue;
             lblTieuDe.Location = new Point(105, 20);
 
-            // Tên đăng nhập
             Label lblTenDangNhap = new Label();
             lblTenDangNhap.Text = "Tên đăng nhập";
             lblTenDangNhap.AutoSize = true;
@@ -53,7 +50,6 @@ namespace TH04c
             lblBatBuoc1.AutoSize = true;
             lblBatBuoc1.Location = new Point(305, 70);
 
-            // Email
             Label lblEmail = new Label();
             lblEmail.Text = "Địa chỉ email";
             lblEmail.AutoSize = true;
@@ -68,7 +64,6 @@ namespace TH04c
             lblBatBuoc2.AutoSize = true;
             lblBatBuoc2.Location = new Point(305, 105);
 
-            // Mật khẩu
             Label lblMatKhau = new Label();
             lblMatKhau.Text = "Mật khẩu";
             lblMatKhau.AutoSize = true;
@@ -84,7 +79,6 @@ namespace TH04c
             lblBatBuoc3.AutoSize = true;
             lblBatBuoc3.Location = new Point(305, 140);
 
-            // Xác nhận mật khẩu
             Label lblXacNhan = new Label();
             lblXacNhan.Text = "Xác nhận mật khẩu";
             lblXacNhan.AutoSize = true;
@@ -95,26 +89,21 @@ namespace TH04c
             txtXacNhanMatKhau.Size = new Size(150, 22);
             txtXacNhanMatKhau.UseSystemPasswordChar = true;
 
-            // Button đăng ký
             btnDangKy = new Button();
             btnDangKy.Text = "Đăng ký";
             btnDangKy.Location = new Point(145, 205);
             btnDangKy.Size = new Size(150, 32);
 
-            // ErrorProvider
             errorProvider1 = new ErrorProvider();
             errorProvider1.ContainerControl = this;
 
-            // Events
             txtEmail.Leave += txtEmail_Leave;
             txtXacNhanMatKhau.KeyDown += txtXacNhanMatKhau_KeyDown;
             btnDangKy.Click += btnDangKy_Click;
             FormClosing += frmBai2_FormClosing;
 
-            // Enter sẽ kích hoạt btnDangKy
             AcceptButton = btnDangKy;
 
-            // Add controls
             Controls.Add(lblTieuDe);
 
             Controls.Add(lblTenDangNhap);

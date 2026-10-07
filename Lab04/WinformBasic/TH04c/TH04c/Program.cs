@@ -7,8 +7,8 @@ namespace TH04c
         {
             ApplicationConfiguration.Initialize();
             //Application.Run(new frmBai1());
-            Application.Run(new frmBai2());
-            //Application.Run(new frmBai3());
+            //Application.Run(new frmBai2());
+            Application.Run(new frmBai3());
             //Application.Run(new frmBai4());
             //Application.Run(new frmBai5());
         }
