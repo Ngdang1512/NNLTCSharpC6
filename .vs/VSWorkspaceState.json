@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab02",
-    "\\Lab02\\Lab02_ThucHanh02\\Lab02_ThucHanh02",
-    "\\Lab03",
     "\\Lab03\\BaiThucHanhLINQ",
-    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ"
+    "\\Lab03\\BaiThucHanhLINQ\\BaiThucHanhLINQ",
+    "\\Lab04"
   ],
-  "SelectedNode": "\\Lab02\\Lab02_ThucHanh01",
+  "SelectedNode": "\\Lab04",
   "PreviewInSolutionExplorer": false
 }
