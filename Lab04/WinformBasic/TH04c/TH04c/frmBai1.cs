@@ -21,85 +21,70 @@
 
         private void TaoGiaoDien()
         {
-            // Form
             this.Text = "Cộng trừ nhân chia";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Size = new Size(500, 300);
 
-            // Label a
             Label lblA = new Label();
             lblA.Text = "a =";
             lblA.Location = new Point(60, 50);
             lblA.AutoSize = true;
 
-            // TextBox a
             txtA = new TextBox();
             txtA.Location = new Point(120, 45);
             txtA.Size = new Size(120, 25);
 
-            // Label b
             Label lblB = new Label();
             lblB.Text = "b =";
             lblB.Location = new Point(270, 50);
             lblB.AutoSize = true;
 
-            // TextBox b
             txtB = new TextBox();
             txtB.Location = new Point(320, 45);
             txtB.Size = new Size(120, 25);
 
-            // Label kết quả
             Label lblKetQua = new Label();
             lblKetQua.Text = "Kết quả";
             lblKetQua.Location = new Point(60, 100);
             lblKetQua.AutoSize = true;
 
-            // TextBox kết quả
             txtKetQua = new TextBox();
             txtKetQua.Location = new Point(120, 95);
             txtKetQua.Size = new Size(320, 25);
             txtKetQua.ReadOnly = true;
 
-            // Button +
             btnCong = new Button();
             btnCong.Text = "+";
             btnCong.Location = new Point(60, 150);
             btnCong.Size = new Size(80, 40);
             btnCong.Click += btnCong_Click;
 
-            // Button -
             btnTru = new Button();
             btnTru.Text = "-";
             btnTru.Location = new Point(160, 150);
             btnTru.Size = new Size(80, 40);
             btnTru.Click += btnTru_Click;
 
-            // Button x
             btnNhan = new Button();
             btnNhan.Text = "x";
             btnNhan.Location = new Point(260, 150);
             btnNhan.Size = new Size(80, 40);
             btnNhan.Click += btnNhan_Click;
 
-            // Button /
             btnChia = new Button();
             btnChia.Text = "/";
             btnChia.Location = new Point(360, 150);
             btnChia.Size = new Size(80, 40);
             btnChia.Click += btnChia_Click;
 
-            // ErrorProvider
             errorProvider1 = new ErrorProvider();
             errorProvider1.ContainerControl = this;
 
-            // Chặn nhập chữ
             txtA.KeyPress += txtSo_KeyPress;
             txtB.KeyPress += txtSo_KeyPress;
 
-            // Xác nhận đóng form
             this.FormClosing += frmBai1_FormClosing;
 
-            // Add controls
             this.Controls.Add(lblA);
             this.Controls.Add(txtA);
 
