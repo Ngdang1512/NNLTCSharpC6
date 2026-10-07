@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace TH04c
 {
-    public partial class frmBai4 : Form
+    public partial class frmBaiTapVeNha : Form
     {
-        public frmBai4()
+        public frmBaiTapVeNha()
         {
             InitializeComponent();
         }
