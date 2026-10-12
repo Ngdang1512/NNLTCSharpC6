@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../TH05c/TH05c/TH05c.csproj" />
+  <Project Path="../TH05d_CSDL/TH05d_CSDL.csproj" />
+  <Project Path="TH05d/TH05d.csproj" />
+</Solution>
